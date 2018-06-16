@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.oschina.net:happymmall/mmall-fe.git"
+    "url": "https://github.com/learnGithubChen/mmall-fe"
   },
-  "author": "Rosen",
+  "author": "Peter",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.28.1",
